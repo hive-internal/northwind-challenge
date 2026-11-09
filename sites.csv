@@ -1,0 +1,41 @@
+CIDR,Site Name,Site Code,ASN,Country ISO,State ISO,City,Latitude,Longitude,VPN,Employees
+10.110.0.0/22,Stockholm-HQ,SE0,5000,SE,,Stockholm,59.3346,18.0632,False,1045
+10.111.0.0/24,Stockholm-Branch,SE1,5001,SE,,Stockholm,59.33,18.07,False,130
+10.112.0.0/23,Malmo-Main,SE2,5002,SE,,Malmo,55.6059,13.0007,False,375
+10.113.0.0/24,Malmo-North,SE3,5003,SE,,Malmo,55.6134,13.1009,False,80
+10.114.0.0/24,Malmo-South,SE4,5004,SE,,Malmo,55.6155,13.1107,False,65
+10.115.0.0/23,Zurich-Airport,CH1,5005,CH,,Zurich,47.4515,8.5646,False,460
+10.116.0.0/24,Zurich-West,CH2,5006,CH,,Zurich,47.39,8.515,False,150
+10.117.0.0/22,NewYork-5thAve,US1,5007,US,NY,New York,40.7306,-73.9352,False,650
+10.118.0.0/23,SanFrancisco-SoMa,US2,5008,US,CA,San Francisco,37.7749,-122.4194,False,445
+10.119.0.0/23,Austin-Domain,US3,5009,US,TX,Austin,30.2672,-97.7431,False,295
+10.120.0.0/24,Chicago-Loop,US4,5010,US,IL,Chicago,41.8781,-87.6298,False,240
+10.121.0.0/24,Boston-Seaport,US5,5011,US,MA,Boston,42.3601,-71.0589,False,185
+10.122.0.0/24,Toronto-Downtown,CA1,5012,CA,ON,Toronto,43.6532,-79.3832,False,200
+10.123.0.0/23,London-Shoreditch,GB1,5013,GB,,London,51.5074,-0.1278,False,525
+10.124.0.0/24,Manchester-Spinningfields,GB2,5014,GB,,Manchester,53.4808,-2.2426,False,135
+10.125.0.0/24,Dublin-Docklands,IE1,5015,IE,,Dublin,53.3498,-6.2603,False,175
+10.126.0.0/23,Berlin-Mitte,DE1,5016,DE,,Berlin,52.52,13.405,False,375
+10.127.0.0/24,Munich-Schwabing,DE2,5017,DE,,Munich,48.1351,11.582,False,225
+10.128.0.0/24,Hamburg-HafenCity,DE3,5018,DE,,Hamburg,53.5511,9.9937,False,110
+10.129.0.0/23,Paris-LaDefense,FR1,5019,FR,,Paris,48.8566,2.3522,False,275
+10.130.0.0/24,Amsterdam-Zuidas,NL1,5020,NL,,Amsterdam,52.3676,4.9041,False,195
+10.131.0.0/24,Madrid-Chamartin,ES1,5021,ES,,Madrid,40.4168,-3.7038,False,150
+10.132.0.0/24,Barcelona-22@,ES2,5022,ES,,Barcelona,41.3874,2.1686,False,100
+10.133.0.0/24,Milan-PortaNuova,IT1,5023,IT,,Milan,45.4642,9.19,False,115
+10.134.0.0/24,Warsaw-Wola,PL1,5024,PL,,Warsaw,52.2297,21.0122,False,210
+10.135.0.0/24,Gdansk-Oliva,PL2,5025,PL,,Gdansk,54.352,18.6466,False,85
+10.136.0.0/24,Helsinki-Pasila,FI1,5026,FI,,Helsinki,60.1699,24.9384,False,120
+10.137.0.0/24,Oslo-Barcode,NO1,5027,NO,,Oslo,59.9139,10.7522,False,145
+10.138.0.0/24,Tromso-Office,NO2,5028,NO,,Tromso,69.6492,18.9553,False,45
+10.139.0.0/24,Copenhagen-Orestad,DK1,5029,DK,,Copenhagen,55.6761,12.5683,False,150
+10.140.0.0/24,Lisbon-Parque,PT1,5030,PT,,Lisbon,38.7223,-9.1393,False,95
+10.141.0.0/23,Bangalore-Whitefield,IN1,5031,IN,KA,Bangalore,12.9716,77.5946,False,460
+10.142.0.0/24,Pune-Hinjewadi,IN2,5032,IN,MH,Pune,18.5204,73.8567,False,160
+10.143.0.0/24,Singapore-OneNorth,SG1,5033,SG,,Singapore,1.3521,103.8198,False,130
+10.144.0.0/24,Tokyo-Marunouchi,JP1,5034,JP,,Tokyo,35.6762,139.6503,False,85
+10.145.0.0/24,Sydney-Pyrmont,AU1,5035,AU,NSW,Sydney,-33.8688,151.2093,False,70
+10.146.0.0/24,PortLouis-Hub,MU1,5036,MU,,Port Louis,-20.1609,57.5012,False,70
+10.147.0.0/24,SaoPaulo-Itaim,BR1,5037,BR,SP,Sao Paulo,-23.5505,-46.6333,False,110
+10.148.0.0/24,MexicoCity-Reforma,MX1,5038,MX,,Mexico City,19.4326,-99.1332,False,80
+10.200.0.0/16,Remote-VPN,RMT,5039,,,,,,True,3285

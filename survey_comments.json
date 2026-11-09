@@ -1,0 +1,1106 @@
+[
+  {
+    "commentId": "c001",
+    "siteCode": "US2",
+    "submittedAt": "2026-11-04T14:59:59Z",
+    "rating": 3,
+    "language": "en",
+    "text": "5 AM start in San Francisco. Watched the replay."
+  },
+  {
+    "commentId": "c002",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T15:01:34Z",
+    "rating": 5,
+    "language": "en",
+    "text": "Best all-hands this year. The CEO was relaxed and clear."
+  },
+  {
+    "commentId": "c003",
+    "siteCode": "SE3",
+    "submittedAt": "2026-11-04T15:04:19Z",
+    "rating": 3,
+    "language": "en",
+    "text": "The sound level between speakers was uneven."
+  },
+  {
+    "commentId": "c004",
+    "siteCode": "GB1",
+    "submittedAt": "2026-11-04T15:12:29Z",
+    "rating": 5,
+    "language": "en",
+    "text": "Great job by the comms team."
+  },
+  {
+    "commentId": "c005",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T15:12:52Z",
+    "rating": 4,
+    "language": "en",
+    "text": "I liked the Q&A the most. Honest answers."
+  },
+  {
+    "commentId": "c006",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T15:21:28Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Fine on the whole. VPN made the start slow."
+  },
+  {
+    "commentId": "c007",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T15:39:24Z",
+    "rating": 2,
+    "language": "sv",
+    "text": "Bilden hackade under hela demon via VPN."
+  },
+  {
+    "commentId": "c008",
+    "siteCode": "",
+    "submittedAt": "2026-11-04T16:00:16Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Please add live captions."
+  },
+  {
+    "commentId": "c009",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T17:21:22Z",
+    "rating": 3,
+    "language": "en",
+    "text": "I wanted to hear about hiring plans, nothing there."
+  },
+  {
+    "commentId": "c010",
+    "siteCode": "NO2",
+    "submittedAt": "2026-11-04T17:26:33Z",
+    "rating": 2,
+    "language": "no",
+    "text": "Bildet frøs flere ganger. Lyden var fin, men bildet var ubrukelig."
+  },
+  {
+    "commentId": "c011",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T17:38:16Z",
+    "rating": 3,
+    "language": "de",
+    "text": "Bei der Demo ist der Stream kurz eingefroren, sonst ok."
+  },
+  {
+    "commentId": "c012",
+    "siteCode": "US5",
+    "submittedAt": "2026-11-04T17:46:09Z",
+    "rating": 4,
+    "language": "en",
+    "text": "The new format with the live Q&A worked well."
+  },
+  {
+    "commentId": "c013",
+    "siteCode": "DE3",
+    "submittedAt": "2026-11-04T17:52:59Z",
+    "rating": 3,
+    "language": "sv",
+    "text": "Bilden frös under demon men kom tillbaka efter några minuter."
+  },
+  {
+    "commentId": "c014",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T17:54:14Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Stream was okay but the resolution was blurry."
+  },
+  {
+    "commentId": "c015",
+    "siteCode": "SE0",
+    "submittedAt": "2026-11-04T17:56:00Z",
+    "rating": 2,
+    "language": "sv",
+    "text": "Själva sändningen funkade bra, men omorganisationen förklarades dåligt."
+  },
+  {
+    "commentId": "c016",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T17:57:14Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Quality was low from the start, worked from home on VPN."
+  },
+  {
+    "commentId": "c017",
+    "siteCode": "NO1",
+    "submittedAt": "2026-11-04T18:24:55Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Is there a link to the Q&A answers we missed?"
+  },
+  {
+    "commentId": "c018",
+    "siteCode": "",
+    "submittedAt": "2026-11-04T18:25:11Z",
+    "rating": 1,
+    "language": "no",
+    "text": "Videoen hakket hele tiden, vi ga opp midt i demoen."
+  },
+  {
+    "commentId": "c019",
+    "siteCode": "US2",
+    "submittedAt": "2026-11-04T18:27:09Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Too early on the west coast, caught the Q&A recording later."
+  },
+  {
+    "commentId": "c020",
+    "siteCode": "NO1",
+    "submittedAt": "2026-11-04T18:51:06Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Same here, froze at the demo and a few people left the room."
+  },
+  {
+    "commentId": "c021",
+    "siteCode": "IN1",
+    "submittedAt": "2026-11-04T18:56:38Z",
+    "rating": 3,
+    "language": "en",
+    "text": "As expected."
+  },
+  {
+    "commentId": "c022",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T19:36:14Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Had to rejoin twice, lost 5 minutes each time."
+  },
+  {
+    "commentId": "c023",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T19:50:54Z",
+    "rating": 3,
+    "language": "sv",
+    "text": "Fungerade okej hemifrån, men upplösningen var låg."
+  },
+  {
+    "commentId": "c024",
+    "siteCode": "",
+    "submittedAt": "2026-11-04T19:55:55Z",
+    "rating": 4,
+    "language": "en",
+    "text": "Replay worked well for me."
+  },
+  {
+    "commentId": "c025",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T20:03:13Z",
+    "rating": 4,
+    "language": "en",
+    "text": "Add a transcript for the replay please."
+  },
+  {
+    "commentId": "c026",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T20:57:05Z",
+    "rating": 4,
+    "language": "en",
+    "text": "Good pace. The strategy part was inspiring."
+  },
+  {
+    "commentId": "c027",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T21:19:43Z",
+    "rating": 3,
+    "language": "es",
+    "text": "La calidad era baja, pero se podía seguir."
+  },
+  {
+    "commentId": "c028",
+    "siteCode": "IN2",
+    "submittedAt": "2026-11-04T21:22:24Z",
+    "rating": 4,
+    "language": "en",
+    "text": "Singapore at 9 pm is not great, but the stream was stable."
+  },
+  {
+    "commentId": "c029",
+    "siteCode": "",
+    "submittedAt": "2026-11-04T21:28:01Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Freeze at the start of the demo. Please add a pre-recorded fallback."
+  },
+  {
+    "commentId": "c030",
+    "siteCode": "ES1",
+    "submittedAt": "2026-11-04T21:29:06Z",
+    "rating": 3,
+    "language": "en",
+    "text": "The room speakers made Q&A hard to follow. Video itself was fine."
+  },
+  {
+    "commentId": "c031",
+    "siteCode": "IN1",
+    "submittedAt": "2026-11-04T22:09:38Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Pune office ran a viewing session, picture was a bit soft but fine."
+  },
+  {
+    "commentId": "c032",
+    "siteCode": "SE1",
+    "submittedAt": "2026-11-04T22:12:30Z",
+    "rating": 5,
+    "language": "sv",
+    "text": "Bra sändning, tydlig bild och ljud hela vägen."
+  },
+  {
+    "commentId": "c033",
+    "siteCode": "IE1",
+    "submittedAt": "2026-11-04T22:36:11Z",
+    "rating": 2,
+    "language": "en",
+    "text": "The demo froze for the whole room, we missed the new feature reveal."
+  },
+  {
+    "commentId": "c034",
+    "siteCode": "",
+    "submittedAt": "2026-11-04T22:57:35Z",
+    "rating": 4,
+    "language": "en",
+    "text": "Good."
+  },
+  {
+    "commentId": "c035",
+    "siteCode": "IN1",
+    "submittedAt": "2026-11-04T23:00:10Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Too late in the evening for India, please consider an earlier slot."
+  },
+  {
+    "commentId": "c036",
+    "siteCode": "GB2",
+    "submittedAt": "2026-11-04T23:05:21Z",
+    "rating": 2,
+    "language": "fr",
+    "text": "La vidéo s'est figée au moment de la démo produit."
+  },
+  {
+    "commentId": "c037",
+    "siteCode": "US1",
+    "submittedAt": "2026-11-04T23:09:35Z",
+    "rating": 5,
+    "language": "en",
+    "text": "Great event, stream was smooth throughout."
+  },
+  {
+    "commentId": "c038",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T23:17:35Z",
+    "rating": 3,
+    "language": "en",
+    "text": "The stream was great but the Q&A was far too short."
+  },
+  {
+    "commentId": "c039",
+    "siteCode": "US5",
+    "submittedAt": "2026-11-04T23:24:00Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Meh."
+  },
+  {
+    "commentId": "c040",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-04T23:24:12Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Dropped out twice during the reorg part. Missed the key slide."
+  },
+  {
+    "commentId": "c041",
+    "siteCode": "DE1",
+    "submittedAt": "2026-11-04T23:33:24Z",
+    "rating": 5,
+    "language": "sv",
+    "text": "Mycket bättre än förra gången!"
+  },
+  {
+    "commentId": "c042",
+    "siteCode": "IN2",
+    "submittedAt": "2026-11-04T23:37:24Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Tokyo at 10 pm. Only a few of us joined live."
+  },
+  {
+    "commentId": "c043",
+    "siteCode": "US2",
+    "submittedAt": "2026-11-04T23:41:04Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Good tech, bad message. People are worried now."
+  },
+  {
+    "commentId": "c044",
+    "siteCode": "US1",
+    "submittedAt": "2026-11-05T00:02:24Z",
+    "rating": 5,
+    "language": "en",
+    "text": "Easy to join, one click and it worked."
+  },
+  {
+    "commentId": "c045",
+    "siteCode": "ES1",
+    "submittedAt": "2026-11-05T00:12:45Z",
+    "rating": 3,
+    "language": "es",
+    "text": "El inglés muy rápido, necesitamos subtítulos o traducción."
+  },
+  {
+    "commentId": "c046",
+    "siteCode": "PT1",
+    "submittedAt": "2026-11-05T00:19:59Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Share the agenda earlier, please."
+  },
+  {
+    "commentId": "c047",
+    "siteCode": "NO2",
+    "submittedAt": "2026-11-05T00:20:03Z",
+    "rating": 1,
+    "language": "en",
+    "text": "Constant buffering for our whole office. We ended up reading the summary afterwards."
+  },
+  {
+    "commentId": "c048",
+    "siteCode": "AU1",
+    "submittedAt": "2026-11-05T00:43:11Z",
+    "rating": 5,
+    "language": "en",
+    "text": "Smooth. Please do this every quarter."
+  },
+  {
+    "commentId": "c049",
+    "siteCode": "IT1",
+    "submittedAt": "2026-11-05T00:48:38Z",
+    "rating": 4,
+    "language": "en",
+    "text": "Seemed fine to me."
+  },
+  {
+    "commentId": "c050",
+    "siteCode": "SE0",
+    "submittedAt": "2026-11-05T00:49:11Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Around 13:30 UTC everything froze for us, then recovered."
+  },
+  {
+    "commentId": "c051",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T00:53:12Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Slow to start, quality improved after a while."
+  },
+  {
+    "commentId": "c052",
+    "siteCode": "DE2",
+    "submittedAt": "2026-11-05T01:15:57Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Demo section was choppy, rest was fine."
+  },
+  {
+    "commentId": "c053",
+    "siteCode": "",
+    "submittedAt": "2026-11-05T01:17:11Z",
+    "rating": 1,
+    "language": "en",
+    "text": "Awful timing for the reorg news, right before the weekend."
+  },
+  {
+    "commentId": "c054",
+    "siteCode": "IN1",
+    "submittedAt": "2026-11-05T01:48:01Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Nothing special."
+  },
+  {
+    "commentId": "c055",
+    "siteCode": "GB1",
+    "submittedAt": "2026-11-05T02:13:45Z",
+    "rating": 3,
+    "language": "de",
+    "text": "In Ordnung."
+  },
+  {
+    "commentId": "c056",
+    "siteCode": "AU1",
+    "submittedAt": "2026-11-05T02:14:04Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Stream was fine. Content was disappointing."
+  },
+  {
+    "commentId": "c057",
+    "siteCode": "ES1",
+    "submittedAt": "2026-11-05T02:39:49Z",
+    "rating": 3,
+    "language": "es",
+    "text": "No había subtítulos en español, mucha gente no pudo seguir las preguntas."
+  },
+  {
+    "commentId": "c058",
+    "siteCode": "SE0",
+    "submittedAt": "2026-11-05T02:44:46Z",
+    "rating": 5,
+    "language": "fr",
+    "text": "Très bonne qualité, rien à signaler."
+  },
+  {
+    "commentId": "c059",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T02:49:41Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Would be great if remote people did not need to be on VPN to watch."
+  },
+  {
+    "commentId": "c060",
+    "siteCode": "ES1",
+    "submittedAt": "2026-11-05T03:22:36Z",
+    "rating": 2,
+    "language": "es",
+    "text": "Se oía con eco en la sala grande, tuvimos que subir el volumen al máximo."
+  },
+  {
+    "commentId": "c061",
+    "siteCode": "ES1",
+    "submittedAt": "2026-11-05T03:26:09Z",
+    "rating": 3,
+    "language": "de",
+    "text": "Kurzer Aussetzer bei der Demo, sonst alles gut."
+  },
+  {
+    "commentId": "c062",
+    "siteCode": "NO2",
+    "submittedAt": "2026-11-05T03:48:02Z",
+    "rating": 1,
+    "language": "en",
+    "text": "Could not follow the Q&A at all, too many drops."
+  },
+  {
+    "commentId": "c063",
+    "siteCode": "CH2",
+    "submittedAt": "2026-11-05T04:06:35Z",
+    "rating": 4,
+    "language": "es",
+    "text": "Muy buena transmisión y buen ritmo."
+  },
+  {
+    "commentId": "c064",
+    "siteCode": "IN2",
+    "submittedAt": "2026-11-05T04:41:56Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Late for APAC. Would prefer a second live session."
+  },
+  {
+    "commentId": "c065",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T04:50:34Z",
+    "rating": 3,
+    "language": "sv",
+    "text": "Okej."
+  },
+  {
+    "commentId": "c066",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T04:59:24Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Lagged badly for the first 15 minutes, then it was fine."
+  },
+  {
+    "commentId": "c067",
+    "siteCode": "",
+    "submittedAt": "2026-11-05T05:53:34Z",
+    "rating": 3,
+    "language": "de",
+    "text": "Bitte Untertitel auf Deutsch anbieten."
+  },
+  {
+    "commentId": "c068",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T06:30:47Z",
+    "rating": 2,
+    "language": "es",
+    "text": "Se congeló varias veces durante la demostración, conectado por VPN."
+  },
+  {
+    "commentId": "c069",
+    "siteCode": "IN1",
+    "submittedAt": "2026-11-05T06:56:26Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Evening start is hard for us in Bangalore. Watched half live, half replay."
+  },
+  {
+    "commentId": "c070",
+    "siteCode": "US1",
+    "submittedAt": "2026-11-05T07:01:00Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Did not watch all of it."
+  },
+  {
+    "commentId": "c071",
+    "siteCode": "ES1",
+    "submittedAt": "2026-11-05T07:01:56Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Audio was out of sync with the video on the meeting room screen."
+  },
+  {
+    "commentId": "c072",
+    "siteCode": "MU1",
+    "submittedAt": "2026-11-05T07:14:21Z",
+    "rating": 1,
+    "language": "fr",
+    "text": "Impossible de suivre la session de questions, trop de coupures."
+  },
+  {
+    "commentId": "c073",
+    "siteCode": "DE1",
+    "submittedAt": "2026-11-05T07:38:11Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Buffering during the demo, nothing before or after."
+  },
+  {
+    "commentId": "c074",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T08:00:16Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Froze for a few seconds around the product demo, then caught up."
+  },
+  {
+    "commentId": "c075",
+    "siteCode": "GB1",
+    "submittedAt": "2026-11-05T08:14:21Z",
+    "rating": 2,
+    "language": "en",
+    "text": "The strategy part was too vague, I learned nothing new."
+  },
+  {
+    "commentId": "c076",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T08:30:20Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Video was pixelated for me on VPN, but audio was fine."
+  },
+  {
+    "commentId": "c077",
+    "siteCode": "SE0",
+    "submittedAt": "2026-11-05T09:09:10Z",
+    "rating": 5,
+    "language": "en",
+    "text": "Best stream we have had from this venue."
+  },
+  {
+    "commentId": "c078",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T09:37:37Z",
+    "rating": 2,
+    "language": "de",
+    "text": "Auf VPN war das Bild die ganze Zeit unscharf und ruckelte."
+  },
+  {
+    "commentId": "c079",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T09:38:49Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Had to switch to my phone halfway through because the laptop stream stuttered."
+  },
+  {
+    "commentId": "c080",
+    "siteCode": "US2",
+    "submittedAt": "2026-11-05T09:53:18Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Great content, wrong time zone for us."
+  },
+  {
+    "commentId": "c081",
+    "siteCode": "DE1",
+    "submittedAt": "2026-11-05T10:01:07Z",
+    "rating": 3,
+    "language": "en",
+    "text": "It was ok."
+  },
+  {
+    "commentId": "c082",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T10:24:35Z",
+    "rating": 5,
+    "language": "en",
+    "text": "Super. Even the replay link worked right away."
+  },
+  {
+    "commentId": "c083",
+    "siteCode": "SE0",
+    "submittedAt": "2026-11-05T11:23:23Z",
+    "rating": 4,
+    "language": "en",
+    "text": "Stream started on time and was stable."
+  },
+  {
+    "commentId": "c084",
+    "siteCode": "PL2",
+    "submittedAt": "2026-11-05T12:05:27Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Q&A questions were clearly filtered. Not a real Q&A."
+  },
+  {
+    "commentId": "c085",
+    "siteCode": "CH1",
+    "submittedAt": "2026-11-05T12:27:42Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Alright."
+  },
+  {
+    "commentId": "c086",
+    "siteCode": "",
+    "submittedAt": "2026-11-05T12:40:50Z",
+    "rating": 1,
+    "language": "en",
+    "text": "Terrible. We got more questions than answers."
+  },
+  {
+    "commentId": "c087",
+    "siteCode": "NO2",
+    "submittedAt": "2026-11-05T12:44:09Z",
+    "rating": 1,
+    "language": "en",
+    "text": "Video kept freezing, we gave up halfway through the demo. Again."
+  },
+  {
+    "commentId": "c088",
+    "siteCode": "GB1",
+    "submittedAt": "2026-11-05T12:47:38Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Fine I guess."
+  },
+  {
+    "commentId": "c089",
+    "siteCode": "US2",
+    "submittedAt": "2026-11-05T13:37:32Z",
+    "rating": 4,
+    "language": "en",
+    "text": "The replay was smooth, no buffering."
+  },
+  {
+    "commentId": "c090",
+    "siteCode": "ES1",
+    "submittedAt": "2026-11-05T14:03:58Z",
+    "rating": 2,
+    "language": "es",
+    "text": "El audio iba desfasado respecto a la imagen en la sala de reuniones."
+  },
+  {
+    "commentId": "c091",
+    "siteCode": "CA1",
+    "submittedAt": "2026-11-05T14:24:31Z",
+    "rating": 4,
+    "language": "en",
+    "text": "Nice that it is available on demand afterwards."
+  },
+  {
+    "commentId": "c092",
+    "siteCode": "US5",
+    "submittedAt": "2026-11-05T14:42:15Z",
+    "rating": 4,
+    "language": "en",
+    "text": "Watched on my phone on the train, worked well."
+  },
+  {
+    "commentId": "c093",
+    "siteCode": "NL1",
+    "submittedAt": "2026-11-05T14:49:31Z",
+    "rating": 2,
+    "language": "en",
+    "text": "The stream stuttered around the demo, we missed the pricing slide."
+  },
+  {
+    "commentId": "c094",
+    "siteCode": "",
+    "submittedAt": "2026-11-05T15:17:38Z",
+    "rating": 5,
+    "language": "en",
+    "text": "Smooth and clear, no issues at all."
+  },
+  {
+    "commentId": "c095",
+    "siteCode": "ES1",
+    "submittedAt": "2026-11-05T16:25:15Z",
+    "rating": 2,
+    "language": "es",
+    "text": "Desfase entre voz y labios durante toda la sesión."
+  },
+  {
+    "commentId": "c096",
+    "siteCode": "SE0",
+    "submittedAt": "2026-11-05T18:28:01Z",
+    "rating": 3,
+    "language": "pl",
+    "text": "Obraz zamarzł podczas demo produktu, potem było już dobrze."
+  },
+  {
+    "commentId": "c097",
+    "siteCode": "MU1",
+    "submittedAt": "2026-11-05T18:49:52Z",
+    "rating": 2,
+    "language": "fr",
+    "text": "Image saccadée pendant tout le discours du CEO."
+  },
+  {
+    "commentId": "c098",
+    "siteCode": "ES1",
+    "submittedAt": "2026-11-05T19:26:12Z",
+    "rating": 2,
+    "language": "es",
+    "text": "La imagen se veía bien en la pantalla de la sala, pero el sonido no se entendía."
+  },
+  {
+    "commentId": "c099",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T19:40:43Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Fine."
+  },
+  {
+    "commentId": "c100",
+    "siteCode": "CH1",
+    "submittedAt": "2026-11-05T19:49:48Z",
+    "rating": 2,
+    "language": "es",
+    "text": "Se cortó la transmisión durante la demo."
+  },
+  {
+    "commentId": "c101",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T19:54:46Z",
+    "rating": 5,
+    "language": "en",
+    "text": "Loved the product demo. Very clear."
+  },
+  {
+    "commentId": "c102",
+    "siteCode": "MU1",
+    "submittedAt": "2026-11-05T20:05:56Z",
+    "rating": 1,
+    "language": "en",
+    "text": "Constant buffering, we missed most of the Q&A."
+  },
+  {
+    "commentId": "c103",
+    "siteCode": "MU1",
+    "submittedAt": "2026-11-05T20:07:11Z",
+    "rating": 2,
+    "language": "en",
+    "text": "We watched the replay the next day because live was not usable."
+  },
+  {
+    "commentId": "c104",
+    "siteCode": "SE2",
+    "submittedAt": "2026-11-05T20:12:18Z",
+    "rating": 5,
+    "language": "pl",
+    "text": "Transmisja bez zarzutu, dobra jakość."
+  },
+  {
+    "commentId": "c105",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T20:12:50Z",
+    "rating": 5,
+    "language": "de",
+    "text": "Alles lief reibungslos, danke für die gute Organisation."
+  },
+  {
+    "commentId": "c106",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-05T21:34:59Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Too many slides, not enough substance."
+  },
+  {
+    "commentId": "c107",
+    "siteCode": "ES1",
+    "submittedAt": "2026-11-05T22:26:35Z",
+    "rating": 3,
+    "language": "es",
+    "text": "Sin problemas de conexión, pero el sonido de la sala era pésimo."
+  },
+  {
+    "commentId": "c108",
+    "siteCode": "IT1",
+    "submittedAt": "2026-11-05T22:51:19Z",
+    "rating": 2,
+    "language": "de",
+    "text": "Beim Produkt-Demo ist das Video eingefroren."
+  },
+  {
+    "commentId": "c109",
+    "siteCode": "SE2",
+    "submittedAt": "2026-11-05T23:43:21Z",
+    "rating": 2,
+    "language": "sv",
+    "text": "Strömmen hackade precis när demon började."
+  },
+  {
+    "commentId": "c110",
+    "siteCode": "SG1",
+    "submittedAt": "2026-11-06T00:20:34Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Live at 18:30 clashes with dinner and commute. Replay helped."
+  },
+  {
+    "commentId": "c111",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-06T00:24:47Z",
+    "rating": 2,
+    "language": "de",
+    "text": "Technisch einwandfrei, aber die Reorganisation wurde schlecht erklärt."
+  },
+  {
+    "commentId": "c112",
+    "siteCode": "JP1",
+    "submittedAt": "2026-11-06T02:07:29Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Joined on mobile on the way home, worked but battery drained."
+  },
+  {
+    "commentId": "c113",
+    "siteCode": "SE0",
+    "submittedAt": "2026-11-06T03:17:43Z",
+    "rating": 2,
+    "language": "en",
+    "text": "The stream worked fine but I do not trust what was said about the reorg."
+  },
+  {
+    "commentId": "c114",
+    "siteCode": "SE1",
+    "submittedAt": "2026-11-06T04:27:30Z",
+    "rating": 4,
+    "language": "en",
+    "text": "Make slides downloadable afterwards."
+  },
+  {
+    "commentId": "c115",
+    "siteCode": "US3",
+    "submittedAt": "2026-11-06T04:28:03Z",
+    "rating": 5,
+    "language": "en",
+    "text": "No problems watching from the office."
+  },
+  {
+    "commentId": "c116",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-06T05:11:15Z",
+    "rating": 3,
+    "language": "en",
+    "text": "OK."
+  },
+  {
+    "commentId": "c117",
+    "siteCode": "SE0",
+    "submittedAt": "2026-11-06T06:01:55Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Lost the stream for a few minutes at the demo. Annoying."
+  },
+  {
+    "commentId": "c118",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-06T07:23:02Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Dropped for about a minute, no way to jump back."
+  },
+  {
+    "commentId": "c119",
+    "siteCode": "IN2",
+    "submittedAt": "2026-11-06T07:23:32Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Terrible agenda. Reorg should have come first, not at minute 20."
+  },
+  {
+    "commentId": "c120",
+    "siteCode": "SE2",
+    "submittedAt": "2026-11-06T10:31:45Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Froze right when the product demo started."
+  },
+  {
+    "commentId": "c121",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-06T11:30:43Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Would like to ask questions anonymously."
+  },
+  {
+    "commentId": "c122",
+    "siteCode": "BR1",
+    "submittedAt": "2026-11-06T13:13:02Z",
+    "rating": 4,
+    "language": "de",
+    "text": "Klares Bild, guter Ton. Gerne wieder."
+  },
+  {
+    "commentId": "c123",
+    "siteCode": "ES1",
+    "submittedAt": "2026-11-06T14:00:18Z",
+    "rating": 3,
+    "language": "es",
+    "text": "La retransmisión fue estable, pero el audio de las preguntas era muy bajo."
+  },
+  {
+    "commentId": "c124",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-06T15:46:02Z",
+    "rating": 3,
+    "language": "sv",
+    "text": "Önskar textning på svenska."
+  },
+  {
+    "commentId": "c125",
+    "siteCode": "MU1",
+    "submittedAt": "2026-11-06T15:52:06Z",
+    "rating": 1,
+    "language": "fr",
+    "text": "Le flux se coupait sans arrêt pendant la démo."
+  },
+  {
+    "commentId": "c126",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-06T16:14:54Z",
+    "rating": 1,
+    "language": "en",
+    "text": "The reorg announcement was terrible communication. Nothing about what happens to my team."
+  },
+  {
+    "commentId": "c127",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-06T16:26:52Z",
+    "rating": 4,
+    "language": "es",
+    "text": "Bien."
+  },
+  {
+    "commentId": "c128",
+    "siteCode": "MU1",
+    "submittedAt": "2026-11-06T19:43:40Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Our connection is shared, please consider a low bandwidth option."
+  },
+  {
+    "commentId": "c129",
+    "siteCode": "",
+    "submittedAt": "2026-11-07T00:39:58Z",
+    "rating": 5,
+    "language": "en",
+    "text": "Video quality was excellent, audio too."
+  },
+  {
+    "commentId": "c130",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-07T03:28:36Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Buffering at the demo again. Same as last all-hands."
+  },
+  {
+    "commentId": "c131",
+    "siteCode": "US1",
+    "submittedAt": "2026-11-07T04:53:13Z",
+    "rating": 3,
+    "language": "en",
+    "text": "Was in a meeting during half of it."
+  },
+  {
+    "commentId": "c132",
+    "siteCode": "",
+    "submittedAt": "2026-11-07T06:36:03Z",
+    "rating": 5,
+    "language": "en",
+    "text": "Worked well for me. No issues."
+  },
+  {
+    "commentId": "c133",
+    "siteCode": "NO2",
+    "submittedAt": "2026-11-07T09:08:10Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Audio ok, picture basically a slideshow. We always have this on all-hands."
+  },
+  {
+    "commentId": "c134",
+    "siteCode": "RMT",
+    "submittedAt": "2026-11-07T11:13:11Z",
+    "rating": 4,
+    "language": "en",
+    "text": "Could we have chapter markers in the replay?"
+  },
+  {
+    "commentId": "c135",
+    "siteCode": "US5",
+    "submittedAt": "2026-11-07T12:38:30Z",
+    "rating": 4,
+    "language": "en",
+    "text": "The replay should have a speed control."
+  },
+  {
+    "commentId": "c136",
+    "siteCode": "NO1",
+    "submittedAt": "2026-11-07T16:36:03Z",
+    "rating": 4,
+    "language": "en",
+    "text": "The pre-roll countdown was a nice touch."
+  },
+  {
+    "commentId": "c137",
+    "siteCode": "MU1",
+    "submittedAt": "2026-11-08T03:56:15Z",
+    "rating": 2,
+    "language": "en",
+    "text": "Quality dropped to unwatchable after the first 10 minutes."
+  },
+  {
+    "commentId": "c138",
+    "siteCode": "IN2",
+    "submittedAt": "2026-11-08T17:38:32Z",
+    "rating": 3,
+    "language": "en",
+    "text": "A chat next to the video would help."
+  }
+]

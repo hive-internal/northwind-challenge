@@ -4,34 +4,27 @@ Thanks for taking the time. This exercise should take 3 to 4 hours. Please stop 
 
 ## The situation
 
-Northwind Group (12,000 employees, 40 sites) streamed a CEO all-hands last week. The Head of Internal Communications says:
+You are a product manager. Your product helps companies see how employees experience their live events, and act on it. Northwind Group (12,000 employees, 40 sites) streamed a CEO all-hands last week. Their Head of Internal Communications says:
 
-> "I think it went fine, but I have no idea who actually watched, who had a bad experience, or what we should do differently next time. Help me."
+> "I think it went fine, but I have no idea who actually watched, who had a bad experience, or what we should do differently next time."
 
-Start with `data/event_brief.md`. All data in this repository is synthetic.
+Start with `data/event_brief.md`. Evaluate the context, make assumptions and state them clearly.
 
 ## What we ask you to do
 
-1. Decide who your user is and what problem is worth solving. Write it down.
-2. Decide what to build and, just as important, what not to build.
-3. Build a thin, working slice that uses AI in a way you can defend. A script, a small web app, a notebook or a CLI are all fine. Your stack, your choice.
-4. Tell us how you would take this further.
+1. **Define the problem.** Who is your user, and what problem are you solving for them? Put it in `PROBLEM.md` (1 page max).
+2. **Design the solution.** How would you approach solving that problem? Cover the options you considered, what you chose and why, and the risks. Put it in `SOLUTION.md` (1 page max).
+3. **Build a small slice with AI.** Deliver a small, working slice of your solution, using AI. It could be a script, a prototype of a small web app or a notebook. Use the stack and tools you prefer. Describe exactly how you used AI in `AI_LOG.md`: key moments, what you asked, what it got wrong, what you changed. Include a README.
+4. **Measure.** How would you know the solution works? Add this to `SOLUTION.md`.
+5. **Take it further.** What would you do next? Add this to `SOLUTION.md`.
 
-## What to put in your repository
-
-- `PROBLEM.md`: user, problem, evidence from the data, what success looks like (1 page max)
-- `SOLUTION.md`: options you considered, what you chose and why, what you cut, risks, next 3 steps (1 page max)
-- `AI_LOG.md`: how you used AI. 3 to 5 key moments: what you asked, what it got wrong or missed, what you changed
-- Working code with a README so we can run it in under 5 minutes
-- Optional: a 3 minute screen recording of the demo
+Share your repository (private is fine, invite the person who sent you this) 24 hours before the review conversation. Be ready to present and demo it locally in the interview.
 
 ## Ground rules
 
-- Use any AI tools you like. Please keep usage proportionate. You do not need an expensive setup to do well here.
+- Use any AI tools you like. Keep usage proportionate. You do not need an expensive setup to do well here.
 - Do not use data from your current or past employers.
-- Tell us how many hours you actually spent.
-- Questions are welcome by email. We will share answers with all candidates.
-- Share your repository (private is fine, invite the person who sent you this) 24 hours before the review conversation.
+- All data here is synthetic. It only suggests the kinds of challenges enterprise video users experience and is not real.
 
 ## Data
 
@@ -45,7 +38,7 @@ Start with `data/event_brief.md`. All data in this repository is synthetic.
 
 ### sessions.csv fields
 
-The structure follows the platform's viewer export. All times are UTC. The file is a raw export and has not been cleaned.
+All times are UTC. The file is a raw export and has not been cleaned.
 
 | Field | Meaning |
 | --- | --- |
@@ -54,15 +47,10 @@ The structure follows the platform's viewer export. All times are UTC. The file 
 | `os`, `app` | Operating system and player/app used |
 | `connectionType` | ethernet, wifi, vpn, cellular |
 | `publicIp`, `privateIp` | Network addresses seen by the platform. `privateIp` can be matched to the CIDR ranges in sites.csv |
-| `siteCode` | Site the platform assigned to the session, matching `Site Code` in sites.csv |
-| `reliabilityScore` | 0 to 1 score computed by the platform for the session. Higher is better. The exact formula is not documented |
-| `rebufferingEvents` | Number of times playback stalled |
-| `rebufferingTime` | Total stalled time, in seconds |
+| `siteCode` | Site assigned to the session, matching `Site Code` in sites.csv |
+| `reliabilityScore` | 0 to 1 score computed by the platform for the session. Higher is better. The formula is not documented |
 | `viewingTime` | Time spent watching, in seconds |
 | `startedAt`, `endedAt` | Session start and end, ISO 8601 |
-| `cdnTraffic` | Bytes delivered from outside the corporate network |
-| `ecdnTraffic` | Bytes delivered from inside the corporate network |
-| `cdnResponses`, `cdnErrors` | Segment requests to the CDN and how many failed |
 
 ### sites.csv fields
 

@@ -7,12 +7,7 @@ Northwind Group is a fictional software and services company with 12,000 employe
 On Wednesday 4 November 2026 the CEO held the quarterly all-hands, live streamed to everyone. It was the first all-hands that also announced an organisation change, so Internal Communications cared more than usual that people actually saw it. The agenda is in event_schedule.md. A replay was available for 7 days.
 
 ## How the stream is delivered
-Northwind uses an enterprise video platform. Each viewer's player gets video segments from one of two sources:
-
-- **CDN traffic:** segments downloaded from outside the corporate network (the internet CDN).
-- **eCDN traffic:** segments served from inside the corporate network, for example from other viewers' players in the same office, which saves office internet bandwidth.
-
-The platform records one row per viewer session in sessions.csv. See the README for field definitions.
+Northwind uses an enterprise video platform. It records one row per viewer session: device, network, site, how long they watched and a reliability score. See the README for field definitions.
 
 ## What we have
 - **sessions.csv:** raw export of viewer sessions from the video platform.
@@ -20,7 +15,7 @@ The platform records one row per viewer session in sessions.csv. See the README 
 - **survey_comments.json:** free-text feedback from the post-event survey (the survey was optional, so it is not a random sample).
 - **event_schedule.md:** the agenda.
 
-We do not have: reliable attendance records, any marketing or invitation data, or any data about how the audio was set up in meeting rooms.
+We do not have: reliable attendance records, detailed playback metrics such as buffering or error counts, any marketing or invitation data, or any data about how the audio was set up in meeting rooms.
 
 ## What stakeholders told us
 
